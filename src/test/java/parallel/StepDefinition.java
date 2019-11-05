@@ -1,4 +1,4 @@
-package stepDefinition;
+package parallel;
 
 
 import org.openqa.selenium.WebDriver;
